@@ -10,3 +10,6 @@
   <li>멘토링위크: 2021.11.01 ~ 2021.11.07</li>
   <li>본선: 2021.11.16</li>
 </ul>
+
+<br><br><br>
+<a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
