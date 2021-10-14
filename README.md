@@ -5,7 +5,6 @@
 
 <img src = 'https://user-images.githubusercontent.com/71007836/137284524-e2f0e08b-39e1-463b-b15c-4b9371b935e8.png' width = '300' hegiht = '500'>
 
-
 <h3>공모 일정</h3>
 <ul>
   <li>사전설명회 : 2021. 09. 13(월) ~ 2021. 09. 14(화)</li>
@@ -37,6 +36,5 @@
   <li>21.10.20: 최종결과 제출</li>
 </ul>
 
-
-<br><br><br>
+<br><br>
 출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
