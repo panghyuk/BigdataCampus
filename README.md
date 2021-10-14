@@ -3,6 +3,8 @@
 <h3>팀원: 오광혁, 이윤주, 이종우(팀장), 정지훈</h3>
 <h3>주제: 지하철 공실 문제 해결을 위한 공유창고 '또타스토리' 입지선정</h3><br>
 
+https://bigdata.seoul.go.kr/upload/editor/bbs/20210827/1630047882641MW9COIBBNITCUSX7JGIDE5MAF.jpg
+
 <h3>주요 일정</h3>
 <ul>
   <li>사전신청서 접수: 2021.09.13 ~ 2021.09.30 15:00</li>
