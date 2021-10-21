@@ -36,5 +36,8 @@
   <li>21.10.21: 최종결과 제출</li>
 </ul>
 
+<h3>분석과정 로드맵</h3>
+![image](https://user-images.githubusercontent.com/71007836/138241388-80359948-f384-4319-8ea4-89cfb10487f3.png)
+
 <br><br>
 출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
