@@ -47,4 +47,4 @@
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
 
 <br><br>
-출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" target = "_blank">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
+출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" ,target = "_blank">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
