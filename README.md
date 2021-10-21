@@ -18,12 +18,14 @@
 </ul>
 
 <h3>심사 기준: 5개 항목 총 100점</h3>
+<ul>
   <li>정책 관련성/사업성: 20점</li>
   <li>공공 활용성: 20점</li>
   <li>데이터 활용성(캠퍼스 데이터 활용도): 20점</li>
   <li>데이터 분석 창의성(분석의 차별성, 기획의 참신성): 20점</li>
   <li>실현 가능성: 20점</li>
-  
+</ul>
+
 <h3>회의 내용</h3>
 <ul>
   <li>21.09.17: 주제 브레인스토밍</li>
@@ -40,5 +42,9 @@
 
 ![image](https://user-images.githubusercontent.com/71007836/138241388-80359948-f384-4319-8ea4-89cfb10487f3.png)
 
+<h2>최종 입지 선정</h2>
+
+![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
+
 <br><br>
-출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
+출처: <a href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" target = "_blank">2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
