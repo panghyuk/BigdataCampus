@@ -38,7 +38,8 @@
   <li>21.10.21: 최종결과 제출</li>
 </ul>
 
-<h3>예선합격!!!</h3>
+<h3>예선 합격!!!</h3>
+<h3>본선 입상!!</h3>
 <img src = "https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/p843x403/247939480_4549286475162838_3903582895886643748_n.jpg?_nc_cat=101&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=zZ02ij2EDCYAX8DMv03&_nc_ht=scontent-ssn1-1.xx&oh=620524860cb6ddef0bb4962749adb260&oe=61A25CE2" width = '300' hegiht = '500'>
 
 <h3>분석과정 로드맵</h3>
