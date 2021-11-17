@@ -42,7 +42,6 @@
 
 <img src = "https://scontent-ssn1-1.xx.fbcdn.net/v/t1.6435-9/p843x403/247939480_4549286475162838_3903582895886643748_n.jpg?_nc_cat=101&_nc_rgb565=1&ccb=1-5&_nc_sid=730e14&_nc_ohc=zZ02ij2EDCYAX8DMv03&_nc_ht=scontent-ssn1-1.xx&oh=620524860cb6ddef0bb4962749adb260&oe=61A25CE2" width = '300' hegiht = '500'>
 
-<h3>본선 입상!!!</h3>
 <h3>분석과정 로드맵</h3>
 
 ![image](https://user-images.githubusercontent.com/71007836/138241388-80359948-f384-4319-8ea4-89cfb10487f3.png)
@@ -50,6 +49,8 @@
 <h2>최종 입지 선정</h2>
 
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
+
+<h3>본선 입상!!!</h3>
 
 <br><br>
 출처: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" >2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
