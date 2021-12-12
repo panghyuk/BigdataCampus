@@ -53,3 +53,5 @@
 
 <br><br>
 출처: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" >2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
+
+발표: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=501&ac_type=A1&sch_type=&sch_text=&currentPage=1">내일의 창고</a>
