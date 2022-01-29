@@ -46,7 +46,7 @@
 
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
 <br>
-<h2>본선입상(최우수상)</h2>
+<h2>최우수상</h2>
 
 <img src = 'https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/265919878_4709747639116720_6026980229866988393_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=inqtLivR3rMAX-oHQH4&tn=D6WL4VEYvxwIAhWW&_nc_ht=scontent-gmp1-1.xx&oh=00_AT-0MPycNKQp3xkxw-EOgKhW__oNwdxvaGoIdoqAImI80A&oe=61F07DED' width = '300' hegiht = '500'>
 
