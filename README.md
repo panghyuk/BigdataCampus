@@ -47,8 +47,7 @@
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
 <br>
 <h2>최우수상</h2>
-
-<img src = "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/265919878_4709747639116720_6026980229866988393_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=bEfmr5qSJeoAX-0q5ea&_nc_ht=scontent-ssn1-1.xx&oh=00_AT-qtl9-WksLf8K71xHzJX17cYfrdeu6MIqPllpDQrMWMQ&oe=622BD16D" width = '300' hegiht = '500'>
+<img src = "https://scontent-ssn1-1.xx.fbcdn.net/v/t39.30808-6/265919878_4709747639116720_6026980229866988393_n.jpg?stp=dst-jpg_s720x720&_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=AiVobPQGpYMAX8qz4gh&_nc_ht=scontent-ssn1-1.xx&oh=00_AT_inTyU07TUIaeteUQipwH2d5MF9RD8nZWFfTXFuh2CNA&oe=6239A92D" width = '300' height = '500'>
 
 <br>
 출처: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" >2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
