@@ -47,7 +47,9 @@
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
 <br>
 <h2>최우수상</h2>
-<img src = "https://scontent-gmp1-1.xx.fbcdn.net/v/t39.30808-6/265919878_4709747639116720_6026980229866988393_n.jpg?stp=dst-jpg_p843x403&_nc_cat=103&ccb=1-5&_nc_sid=730e14&_nc_ohc=2gGvcKbJls4AX9EbAoc&_nc_ht=scontent-gmp1-1.xx&oh=00_AT8iLi-g1jn2gtLgTaVxLTVVWF8mLmp3oN69AcuPDtGGCw&oe=6241922D" width = '300' height = '500'>
+
+![최우수상](https://user-images.githubusercontent.com/71007836/160047715-9b7706d1-8fb3-4674-bde7-7c7e07cad72c.jpg)
+
 
 <br>
 출처: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" >2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
