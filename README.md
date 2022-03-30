@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
 <br>
 <h2>최우수상</h2>
-<img src = "award.JPG" width = "300" height = "450">
+<img src = "사진/award.JPG" width = "300" height = "450">
 
 
 <br>
