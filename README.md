@@ -3,7 +3,7 @@
 <h3>팀원: 오광혁, 이윤주, 이종우(팀장), 정지훈</h3>
 <h3>주제: 지하철 공실 문제 해결을 위한 공유창고 '또타스토리' 입지선정</h3><br>
 
-<img src = 'https://user-images.githubusercontent.com/71007836/137284524-e2f0e08b-39e1-463b-b15c-4b9371b935e8.png' width = '300' hegiht = '500'>
+<img src = 'https://user-images.githubusercontent.com/71007836/137284524-e2f0e08b-39e1-463b-b15c-4b9371b935e8.png' width = '300' hegiht = '450'>
 
 <h3>공모 일정</h3>
 <ul>
@@ -38,13 +38,20 @@
   <li>21.10.21: 최종결과 제출</li>
 </ul>
 
-<h3>분석과정 로드맵</h3>
+<h2>분석과정 로드맵</h2>
 
 ![image](https://user-images.githubusercontent.com/71007836/138241388-80359948-f384-4319-8ea4-89cfb10487f3.png)
 
 <h2>최종 입지 선정</h2>
 
 ![image](https://user-images.githubusercontent.com/71007836/138242042-b3c67d26-8970-4ce7-befa-c5efad7d3863.png)
+<br>
+<h2>최우수상</h2>
 
-<br><br>
+![최우수상](https://user-images.githubusercontent.com/71007836/160047715-9b7706d1-8fb3-4674-bde7-7c7e07cad72c.jpg)
+
+
+<br>
 출처: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P710&bbs_seq=468&sch_type=&sch_text=&currentPage=1" >2021 서울특별시 빅데이터캠퍼스 공모전 안내</a>
+
+발표: <a target = "_blank" href = "https://bigdata.seoul.go.kr/noti/selectNoti.do?r_id=P260&bbs_seq=501&ac_type=A1&sch_type=&sch_text=&currentPage=1">내일의 창고</a>
